@@ -101,18 +101,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RKROCKS47&show_icons=true&theme=radical&hide_border=true" alt="Rohit's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RKROCKS47&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RKROCKS47&theme=radical&hide_border=true" alt="Rohit's GitHub streak" />
-</p>
-
----
 
 ## 🤝 Let's Connect & Collaborate
 
