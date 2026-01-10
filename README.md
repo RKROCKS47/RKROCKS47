@@ -2,7 +2,7 @@
 <h1 align="center">Hey there, I'm <span style="color:#f39c12;">Rohit Ingale</span> 👋</h1>
 
 <h3 align="center">
- • Data Analytics • Full Stack Development • Game Design • VFX & Animation
+   • Data Analytics • Full Stack Development • Game Design • VFX & Animation
 </h3>
 
 <p align="center">
