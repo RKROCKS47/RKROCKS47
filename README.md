@@ -22,7 +22,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Pune%2C%20India-ff4757?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Time-UTC%2B5:30-3498db?style=flat-square" />
+
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ecc71?style=flat-square" />
 </p>
 
