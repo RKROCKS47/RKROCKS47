@@ -106,9 +106,8 @@
 ## 🤝 Let's Connect & Collaborate
 
 <p align="center">
-  <em>🚀 Ready to build awesome projects together!</em>
+  <em>🚀 Ready to build awesome projects together!</em><br>
+  <img src="https://github.com/user-attachments/assets/355e1ab0-dae2-4ec8-a915-1ef5b5f3a86f" width="300" height="200">
+  <br><strong>"Let's connect and make some awesome things happen..."</strong>
 </p>
 
-<div align="center">
-  <strong>"Let's connect and make some awesome things happen..."</strong>
-</div>
