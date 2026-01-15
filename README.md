@@ -39,7 +39,6 @@
 ✨ *VFX Artist* using Blender and After Effects for stunning visuals.  
 🚀 Deploy apps with *Firebase*, *Render*, and CI/CD pipelines.
 
-
 ## 🧰 Tech Stack & Tools
 
 ### 🖥️ Languages
