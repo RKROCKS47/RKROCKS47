@@ -30,15 +30,15 @@
 
 ---
 
-## 🔥 About Me
+<img src="https://github.com/user-attachments/assets/2250e3e0-7ff3-4100-8f06-5ac5a557d7d4" align="right" width="300" height="200">
 
-- 🎯 **Full Stack Developer** building scalable apps with modern tech stacks.  
-- 📊 **Data Analyst** creating actionable insights through visualization and analytics.  
-- 🎮 **Game Designer** passionate about Unity, Unreal, and immersive experiences.  
-- ✨ **VFX Artist** using Blender and After Effects for stunning visuals.  
-- 🚀 Deploy apps with **Firebase**, **Render**, and CI/CD pipelines.
+🔥 **About Me**  
+🎯 *Full Stack Developer* building scalable apps with modern tech stacks.  
+📊 *Data Analyst* creating actionable insights through visualization and analytics.  
+🎮 *Game Designer* passionate about Unity, Unreal, and immersive experiences.  
+✨ *VFX Artist* using Blender and After Effects for stunning visuals.  
+🚀 Deploy apps with *Firebase*, *Render*, and CI/CD pipelines.
 
----
 
 ## 🧰 Tech Stack & Tools
 
