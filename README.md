@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">Hey there, I'm <span style="color:#f39c12;">Rohit Ingale</span> 👋</h1>
-![mmnrfl1183bc1](https://github.com/user-attachments/assets/ace05f11-f962-4c47-be51-aba7e7649e70)
+
 
 
 <h3 align="center">
