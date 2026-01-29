@@ -41,64 +41,20 @@
 
 ## 🧰 Tech Stack & Tools
 
-### 🖥️ Languages
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</p>
-
-### 🌐 Frontend & Backend
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-### 🔥 Cloud & Deployment
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-</p>
-
-### 🗄️ Databases
-
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-### 📊 Data Analytics
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
-
-### 🎮 Game Dev, VFX & Design
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
-### 🧪 Dev Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
+🖥️ Languages
+<p align="left"> <a href="https://www.python.org/" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> </a> <a href="https://www.oracle.com/java/" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> </a> <a href="https://isocpp.org/" target="_blank"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> </a> </p>
+🌐 Frontend & Backend
+<p align="left"> <a href="https://react.dev/" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> </a> <a href="https://nodejs.org/" target="_blank"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> </a> <a href="https://expressjs.com/" target="_blank"> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> </a> </p>
+🔥 Cloud & Deployment
+<p align="left"> <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" /> </a> <a href="https://render.com/" target="_blank"> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" /> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> </a> <a href="https://github.com/features/actions" target="_blank"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /> </a> </p>
+🗄️ Databases
+<p align="left"> <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> </a> </p>
+📊 Data Analytics
+<p align="left"> <a href="https://www.tableau.com/" target="_blank"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /> </a> <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> </a> <a href="https://numpy.org/" target="_blank"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> </a> </p>
+🎮 Game Dev, VFX & Design
+<p align="left"> <a href="https://unity.com/" target="_blank"> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" /> </a> <a href="https://www.blender.org/" target="_blank"> <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" /> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> </a> </p>
+🧪 Dev Tools
+<p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" /> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> </a> <a href="https://www.postman.com/" target="_blank"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> </a> </p>
 
 ---
 
